@@ -1,0 +1,9 @@
+amazon.com;localbitcoins.com|https://ufile.io/7kyjwvoz|5|EU
+w.qiwi.com;paypal.com|https://ufile.io/l17j3hqf|5|US
+crypto.com;btcirect.eu|https://ufile.io/bxegt46h|5|US
+paypal.com|https://ufile.io/a6l6m67o|5|EU
+amazon.com|https://ufile.io/h2zk0h4y|5|US
+blockchain.com|https://ufile.io/w3447tvw|5|EU
+amazon.com|https://ufile.io/6vclk6l7|5|EU
+amazon.com|https://ufile.io/302nmwsm|5|EU
+crypto.com|https://ufile.io/mcris6w5|5|US

@@ -1,0 +1,28 @@
+{
+	"name": "sell-logs-bot",
+	"version": "0.0.1",
+	"description": "Telegram bot for selling logs via Btc payments",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"telegram",
+		"bot",
+		"logs",
+		"btc",
+		"sell"
+	],
+	"author": "Etsoro",
+	"license": "MIT",
+	"devDependencies": {
+		"telegraf": "^3.32.0"
+	},
+	"dependencies": {
+		"bitcoin-receive-payments": "0.0.39",
+		"mongoose": "^5.6.9",
+		"request": "^2.88.0",
+		"socks5-https-client": "^1.2.1",
+		"yaml": "^1.6.0"
+	}
+}
